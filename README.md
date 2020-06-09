@@ -1,4 +1,4 @@
-Welcome to the lanl packer/vagrant git repo! 
+Welcome to my packer/vagrant git repo! 
 
 this repo is devided into several subfolders: 
 
@@ -7,6 +7,9 @@ vagrant
 
 each of these folders contain tested recipes for building minimal, medium, and large images
 of various operating systems. 
+
+NOTE: Much of this code has been adapted from  the Boxcutter repo. I do not claim their work as my own
+I have only borrowed from them publicly available code to modify for my purposes. 
 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-= P A C K E R =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
